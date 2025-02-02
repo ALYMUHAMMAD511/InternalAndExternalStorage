@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternalAndExternalStorage</string>
+    <string name="enter_a_text">Enter a Text</string>
+    <string name="save_file">SAVE FILE</string>
+    <string name="save_to_external_storage">SAVE TO EXTERNAL STORAGE</string>
+    <string name="save_to_internal_storage">SAVE TO INTERNAL STORAGE</string>
+</resources>
